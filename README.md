@@ -16,5 +16,8 @@ Windows配置Fiddler
 
 **配置轉發**
 
-如下導入倉庫中的配置文件Test.farx
+1. 如下導入倉庫中的配置文件Test.farx
+2. 勾選Enable rules
+3. 勾選Unmatched request3 passthrough
+
 ![image](https://github.com/user-attachments/assets/dd7a0677-ebbd-44ad-b776-1dc62f96777e)
